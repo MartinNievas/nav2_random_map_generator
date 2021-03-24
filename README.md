@@ -81,3 +81,10 @@ Example:
 [Ramdom Map TB3 Test Video](https://drive.google.com/file/d/1v9ZD_BBVTWFIhG86w5fbsWIV2ZU6xtcS/view?usp=sharing)
 
 [Ramdom Map Ramp Test Video](https://drive.google.com/file/d/1pfmojJDchdqk0-fnMwMe8CWzGxXcXovb/view?usp=sharing)
+
+## Notes
+Map size is calculated in `random_world/model.sdf`:
+```html
+<size>20 20 1</size>
+
+```
