@@ -35,6 +35,7 @@ This tool creates randomly generated maps and world models that can be used by N
 ```
 cd nav2_random_map_generator
 
+mkdir build
 make
 ```
 

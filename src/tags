@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Circle	circle.cpp	/^Circle::Circle() {$/;"	f	class:Circle
+Circle	circle.cpp	/^Circle::Circle(int r, int max, int min){$/;"	f	class:Circle
+Map	map.cpp	/^Map::Map() {$/;"	f	class:Map
+Map	map.cpp	/^Map::Map(Point map_size = Point (1,1)) {$/;"	f	class:Map
+Obstacle	obstacle.cpp	/^Obstacle::Obstacle() {$/;"	f	class:Obstacle
+RMG	rmg.cpp	/^RMG::RMG() {$/;"	f	class:RMG
+RMG	rmg.cpp	/^RMG::RMG(int map_id, int num_circles, int num_squares, int robot_size, int map_size_x,$/;"	f	class:RMG
+Ramp	ramp.cpp	/^Ramp::Ramp() {$/;"	f	class:Ramp
+Ramp	ramp.cpp	/^Ramp::Ramp(int l, int w){$/;"	f	class:Ramp
+Square	square.cpp	/^Square::Square() {$/;"	f	class:Square
+Square	square.cpp	/^Square::Square(int size, int max, int min){$/;"	f	class:Square
+checkArea	rmg.cpp	/^RMG::checkArea(Map orig, Map temp, Obstacle obs) {$/;"	f	class:RMG
+clearMap	map.cpp	/^Map::clearMap() {$/;"	f	class:Map
+cloneMap	map.cpp	/^Map::cloneMap (Mat copy_map) {$/;"	f	class:Map
+createGradientFrame	ramp.cpp	/^Ramp::createGradientFrame(Point size) {$/;"	f	class:Ramp
+generateMap	rmg.cpp	/^RMG::generateMap() { $/;"	f	class:RMG
+getBlackPixelNumber	map.cpp	/^Map::getBlackPixelNumber() {$/;"	f	class:Map
+getBlackPixelNumber	obstacle.cpp	/^Obstacle::getBlackPixelNumber() {$/;"	f	class:Obstacle
+getInitailPose	map.cpp	/^Map::getInitailPose(int center) {$/;"	f	class:Map
+getMap	map.cpp	/^Map::getMap() {$/;"	f	class:Map
+getMapCenter	map.cpp	/^Map::getMapCenter() {$/;"	f	class:Map
+getMapSize	map.cpp	/^Map::getMapSize() {$/;"	f	class:Map
+getObstacleCenter	obstacle.cpp	/^Obstacle::getObstacleCenter() {$/;"	f	class:Obstacle
+getTargetPose	map.cpp	/^Map::getTargetPose(int pose_number, int distance , int center) {$/;"	f	class:Map
+invertColors	map.cpp	/^Map::invertColors(Mat map) {$/;"	f	class:Map
+loadMap	map.cpp	/^Map::loadMap(string id) {$/;"	f	class:Map
+main	main.cpp	/^main( int argc, char** argv )$/;"	f
+randomNumberGenerator	rmg.cpp	/^RMG::randomNumberGenerator(int min, int max) {$/;"	f	class:RMG
+save	map.cpp	/^Map::save() {$/;"	f	class:Map
+saveAsGazeboMap	map.cpp	/^Map::saveAsGazeboMap() {$/;"	f	class:Map
+saveAsPGM	map.cpp	/^Map::saveAsPGM() {$/;"	f	class:Map
+setBorder	obstacle.cpp	/^Obstacle::setBorder(int border) {$/;"	f	class:Obstacle
+setFrameSize	obstacle.cpp	/^Obstacle::setFrameSize(Point frame_size) {$/;"	f	class:Obstacle
+setInfilation	obstacle.cpp	/^Obstacle::setInfilation(int inf_value) {$/;"	f	class:Obstacle
+setMapSize	map.cpp	/^Map::setMapSize(Point new_size) { $/;"	f	class:Map
+setMaxRadius	circle.cpp	/^Circle::setMaxRadius(int r_max) {$/;"	f	class:Circle
+setMaxSize	square.cpp	/^Square::setMaxSize(int size_max) {$/;"	f	class:Square
+setMinRadius	circle.cpp	/^Circle::setMinRadius(int r_min) {$/;"	f	class:Circle
+setMinSize	square.cpp	/^Square::setMinSize(int size_min) {$/;"	f	class:Square
+setPixelValue	obstacle.cpp	/^Obstacle::setPixelValue(int px_value) {$/;"	f	class:Obstacle
+setRadius	circle.cpp	/^Circle::setRadius(int r) {$/;"	f	class:Circle
+setShift	obstacle.cpp	/^Obstacle::setShift(int shift) {$/;"	f	class:Obstacle
+setSize	square.cpp	/^Square::setSize(int size) {$/;"	f	class:Square
+setThickness	obstacle.cpp	/^Obstacle::setThickness(int thickness) {$/;"	f	class:Obstacle
+show	map.cpp	/^Map::show() {$/;"	f	class:Map
+show	obstacle.cpp	/^Obstacle::show(){$/;"	f	class:Obstacle
